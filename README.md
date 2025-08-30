@@ -2,11 +2,11 @@
 
 ###
 
-<h2 align="center">𝐅𝐮𝐥𝐥-𝐒𝐭𝐚𝐜𝐤 𝐖𝐞𝐛 & 𝐌𝐨𝐛𝐢𝐥𝐞 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫!!</h2>
+<h2 align="center">𝐅𝐮𝐥𝐥-𝐒𝐭𝐚𝐜𝐤 𝐖𝐞𝐛 & 𝐌𝐨𝐛𝐢𝐥𝐞 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 | 𝐏𝐫𝐨𝐛𝐥𝐞𝐦 𝐒𝐨𝐥𝐯𝐞𝐫 | 𝐋𝐢𝐟𝐞𝐥𝐨𝐧𝐠 𝐋𝐞𝐚𝐫𝐧𝐞𝐫</h2>
 
 ###
 
-<p align="center">Full-stack developer working with JavaScript, TypeScript, React, Next.js, Vue, Flutter, PHP, Laravel, PostgreSQL, MongoDB, Google Cloud, and WordPress. I enjoy building scalable apps and solving real problems through code.</p>
+<p align="center">I love building scalable apps, solving real-world problems through code, and learning new technologies along the way.</p>
 
 ###
 
@@ -66,13 +66,5 @@
   <img src="https://streak-stats.demolab.com?user=sabbirkhanx3&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=sabbirkhanx3&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sabbirkhanx3/sabbirkhanx3/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sabbirkhanx3/sabbirkhanx3/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/sabbirkhanx3/sabbirkhanx3/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
